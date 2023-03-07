@@ -20,5 +20,5 @@ go build .
 ## Sample server 
 Feel free to try out the sample server I am currently hosting. 
 ```
-ssh root@64.227.168.102 -p34587
+ssh root@64.227.168.102 -p33659
 ```
