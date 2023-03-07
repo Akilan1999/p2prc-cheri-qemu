@@ -15,6 +15,7 @@ go build .
 ```
 ./p2prc-cheri-qemu
 ```
+- Get the SSH command generated from the output.
 
 ## Sample server 
 Feel free to try out the sample server I am currently hosting. 
